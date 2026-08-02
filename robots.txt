@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-c72h36.hartawin.space/sitemap.xml
